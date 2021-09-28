@@ -1,3 +1,3 @@
 # Projects
 
-## Lebenslaufs
+## Lebenslauf
